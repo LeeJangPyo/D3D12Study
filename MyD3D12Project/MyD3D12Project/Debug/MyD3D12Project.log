@@ -1,0 +1,5 @@
+﻿  MyD3D12Project.cpp
+D:\Programing\Project\4. D3D12\MyD3D12Project\MyD3D12Project\MyD3D12Project.cpp(8,36): warning C4081: 'newline'이(가) 있어야 하는데 ';'이(가) 있습니다.
+D:\Programing\Project\4. D3D12\MyD3D12Project\MyD3D12Project\MyD3D12Project.cpp(9,35): warning C4081: 'newline'이(가) 있어야 하는데 ';'이(가) 있습니다.
+LINK : warning LNK4067: 진입점이 모호합니다. 'WinMainCRTStartup'이(가) 선택됩니다.
+  MyD3D12Project.vcxproj -> D:\Programing\Project\4. D3D12\MyD3D12Project\Debug\MyD3D12Project.exe
